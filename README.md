@@ -18,5 +18,5 @@ The in-game banner says **LIVE** when DONKI responded, or **SNAPSHOT** when it f
 `DEMO_KEY` has low rate limits. Get a free key at the [NASA Open APIs Portal](https://api.nasa.gov/) and replace `DEMO_KEY` in `index.html` for heavier use. Please verify snapshot events against DONKI. Hazard levels (1–5) and damage numbers are game simplifications, not measured radiation doses.
 
 ## Sources
-* [NASA DONKI Portal](https://nasa.gov)
+* https://ccmc.gsfc.nasa.gov/tools/DONKI/
 * [NOAA Space Weather Scales](https://www.swpc.noaa.gov/noaa-scales-explanation)
