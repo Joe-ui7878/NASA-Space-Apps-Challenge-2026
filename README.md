@@ -1,7 +1,7 @@
 # NASA-Space-Apps-Challenge-2026
 Project Astroprep
 🚀 Junior Astronaut Mission Trainer
-An interactive browser game built for the NASA Space Apps Challenge ("Build a Junior Astronaut Mission Trainer"). Students run a Moon or Mars outpost for 20 days and balance power, oxygen, and radiation shielding while real NASA space weather tests their plans.
+,An interactive browser game built for the NASA Space Apps Challenge ("Build a Junior Astronaut Mission Trainer"). Students run a Moon or Mars outpost for 20 days and balance power, oxygen, and radiation shielding while real NASA space weather tests their plans.
 Play it: open index.html in a browser, or publish with GitHub Pages (below).
 
 
