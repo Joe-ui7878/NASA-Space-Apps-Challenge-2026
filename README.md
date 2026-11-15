@@ -11,7 +11,7 @@ You get 3 crew hours a day. Every action has a real cost, so there is no free "s
 **Keys:** `1-4` do actions, `Enter` ends the day. When a mission fails, the game shows what hurt the crew most.
 
 ## NASA data and honesty
-On start, the game requests the last 30 days of solar flares from the [NASA DONKI Solar Flare API](https://nasa.gov) using the shared `DEMO_KEY`. M and X class flares become nightly events. 
+On start, the game requests the last 30 days of solar flares from the [NASA DONKI Solar Flare API](https://ccmc.gsfc.nasa.gov/DONKI-API/get/FLR) using the shared `DEMO_KEY`. M and X class flares become nightly events. 
 
 The in-game banner says **LIVE** when DONKI responded, or **SNAPSHOT** when it fell back to a saved list of real past events (2003 Halloween storms, 2017 X9.3 flare, May 2024 G5 storm, and others). Static data is never presented as live. 
 
